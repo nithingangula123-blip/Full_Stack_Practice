@@ -1,0 +1,19 @@
+.main
+{
+    background-color: blue;
+    margin: 10px;
+    border-color: blueviolet;
+    box-sizing: 20px;
+    size: 20px;
+    padding: 10px;
+}
+.Yellow
+{
+    color: yellow;
+    padding: 10px;
+}
+.White{
+    color: white;
+    background-color: red;
+    padding: 10px;
+}

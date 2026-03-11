@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+<student>
+<name>Nithin</name>
+<rollno>1285</rollno>
+<section>B</section>
+<branch>Information Technology</branch>
+<age>20</age>
+</student>
+<books>
+<book>
+<title>Hapiness</title>
+<author>Nithin</author>
+</book>
+<book>
+<title>Do everything</title>
+<author>Mani</author>
+</book>
+<book>
+<title>Earnings </title>
+<author>Sai</author>
+</book>
+</books>
+</bookstore>
